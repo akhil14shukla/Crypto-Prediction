@@ -1,3 +1,3 @@
 # Crypto-Prediction
-## Please star the repository before cloning.
+## Please star the repository after cloning.
 <br>I'm open to suggestions regarding improvements and new features.
